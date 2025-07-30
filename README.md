@@ -1,3 +1,4 @@
+Visit my Tableau Public VIZ here- https://public.tableau.com/app/profile/bharat.varma/viz/Databel_Customer_Churn_Analysis/ChurnAnalysis
 
 “Did you know that acquiring a new customer is 5 to 25 times more expensive than retaining an existing one?” That’s why customer churn is one of the most urgent and expensive problems facing subscription-based businesses—especially in the telecom industry, where competition is fierce and switching is easy.
 In this project, I used Tableau to analyze a fictional telecom dataset from Databel, uncover key churn drivers, and present actionable insights using interactive dashboards.
